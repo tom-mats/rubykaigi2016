@@ -27,3 +27,8 @@ Fixnum
   * ri fooで2つのドキュメントが帰ってくる
 * 2.4
   * Integer classまでに定義すればいい
+
+# 欠点
+
+* Integerの領域が不定になる.
+  
