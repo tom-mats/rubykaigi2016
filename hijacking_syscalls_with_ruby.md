@@ -1,5 +1,11 @@
 # Hijacking syscalls with (m)Ruby
 
+## Abstract
+
+mrubyを使って，static/shared libraryを作っていろいろhijackしようという話．
+
+mrubyは普通に.oや.aを生成できる&rubyの文法が使えていいよといった話
+
 * mrubyでいろいろやっている
   * SQLの操作(今まで)
   * クラスタリング
